@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.0"
+  },
+    "scripts": {
+      "run": "node .\\server.js"
+    }
+  
+}
